@@ -202,23 +202,11 @@
   font-weight: normal;
 }
 
-.table_theme_dark {
-  counter-reset: table_theme_dark;
-}
-
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
   margin-top: 80px;
   color: white;
-}
-
-.table__heading_theme_dark {
-  counter-increment: table_theme_dark;
-}
-
-.table__heading_theme_dark::before {
-  content: counter(table_theme_dark);
 }
 
 .feynman {
