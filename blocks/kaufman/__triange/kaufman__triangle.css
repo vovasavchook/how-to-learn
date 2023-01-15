@@ -4,6 +4,6 @@
   top: 0;
   right: -210px;
   position: absolute;
-  background: url(../../../images/kaufman-triangle.svg) no-repeat center / contain;
+  background: url(/images/kaufman-triangle.svg) no-repeat center / contain;
   z-index: -1;
 }

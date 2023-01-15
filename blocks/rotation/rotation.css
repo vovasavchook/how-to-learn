@@ -1,0 +1,12 @@
+@keyframes rotating-sqr {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.rotation {
+  animation: rotating-sqr 20s infinite linear;
+}
