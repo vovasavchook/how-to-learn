@@ -3,6 +3,6 @@
   padding-top: 100px;
   box-sizing: border-box;
   text-align: center;
-  background: #f2f2f2 url(/images/feynman.png) no-repeat bottom left / 867px 637px;
+  background: #f2f2f2 url(../../images/feynman.png) no-repeat bottom left / 867px 637px;
   position: relative;
 }
