@@ -3,9 +3,5 @@
   margin: 80px auto 0 auto;
   padding: 0;
   list-style: none;
-  /* display: flex; */
-}
-
-.resources__logo-zone > li {
-  display: inline-block;
+  display: flex;
 }
